@@ -1,0 +1,14 @@
+.vscode
+__pycache__
+model_a/weights
+model_a_dropout/weights_dropout
+model_b/weights_b_dropout
+model_c/weights_c
+model_d/weights_d
+data/full_CNN_labels.p
+data/full_CNN_labels_r.p
+data/full_CNN_labels_r_m.p
+data/full_CNN_train.p
+data/full_CNN_train_r.p
+data/full_CNN_train_r_m.p
+videos
