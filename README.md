@@ -10,3 +10,9 @@ You can find datasets used to train the model there.
 ---
 
 [Video example of recognition](https://youtu.be/Av4GTyEIk-Y)
+
+---
+Bonus:
+Run on GTA V Online capture:
+[Day](https://youtu.be/IQ1QLevRjV8),
+[Night](https://youtu.be/aHhEzdVFDnM)
